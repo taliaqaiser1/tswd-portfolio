@@ -23,7 +23,7 @@ I've taken classes in product management and machine learning to further diversi
 # What I hope to learn
 I hope to learn to use different tools like GitHub, Tableau, and Python to create meaningful visualizations, especially after my internship where explaining the story through data was the main component. 
 
-I also aim to build a working portfolio with an impactful final project that will help me in my future job applications through this course. 
+I also aim to build a working portfolio with an impactful final project that will help me in my future job applications through this course. After graduation, I plan on working as a Product Manager for which we have to give a lot of presentations, strategies, and ideas and all of this is possible with impactful visualizations. 
 
 To summarise I aim to build and achieve:
 1. Using different tools for meaningful visualizations
