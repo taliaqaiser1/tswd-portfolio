@@ -17,6 +17,7 @@ I have interests outside of my academic and professional endeavors, such as the 
 
 I've taken classes in product management and machine learning to further diversify my skill set. My expertise and knowledge have been able to grow as a result of these experiences, giving me the tools I need to successfully address the complex issues that arise when policy, data, and technology come together.
 
+<img width="540" alt="Screenshot 2023-09-02 at 6 10 22 PM" src="https://github.com/taliaqaiser1/tswd-portfolio/assets/123123984/5bdc9c12-84a0-42ec-b5bf-37b93fda8c79">
 
 
 # What I hope to learn
