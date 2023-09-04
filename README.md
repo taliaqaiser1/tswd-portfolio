@@ -17,6 +17,8 @@ I have interests outside of my academic and professional endeavors, such as the 
 
 I've taken classes in product management and machine learning to further diversify my skill set. My expertise and knowledge have been able to grow as a result of these experiences, giving me the tools I need to successfully address the complex issues that arise when policy, data, and technology come together.
 
+
+
 # What I hope to learn
 I hope to learn to use different tools like GitHub, Tableau, and Python to create meaningful visualizations, especially after my internship where explaining the story through data was the main component. 
 
