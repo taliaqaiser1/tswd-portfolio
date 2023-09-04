@@ -43,5 +43,5 @@ Part III: Final deliverable and presentation.  The final deliverable can be a we
 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
