@@ -38,7 +38,9 @@ To summarise I aim to build and achieve:
 
 ## Final project
 Part I: a project proposal.  An outline of your project, copies of data, and the identified method you'll use for presenting.
+
 Part II: Sketches, wireframes, storyboards.  User research and incorporating user feedback.
+
 Part III: Final deliverable and presentation.  The final deliverable can be a website, presentation, interactive work, etc., and should be publicly accessible.   You'll prepare and present a lightning talk for your final presentation. 
 
 [Part I](final-project-part-one)
