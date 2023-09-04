@@ -1,28 +1,31 @@
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+# TSWD-portfolio
+Links:
+- Web page URL: https://taliaqaiser1.github.io/tswd-portfolio/
+- This repository: https://github.com/taliaqaiser1/tswd-portfolio/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+I'm a second-year Master's student pursuing a degree in Public Policy and Management with a specialized focus on Data Analytics at Carnegie Mellon University. My academic journey has led me to explore the fascinating intersection of Social Policy and Data Analytics, where I strive to make data-driven decisions that create meaningful societal impact.
+
+During the summer, I had the incredible opportunity to work at UPMC in their Marketing Intelligence and Brand department as an analyst. This experience allowed me to apply my skills in data analysis & visualization and contribute to the strategic marketing efforts of a prominent healthcare institution.
+
+Before embarking on my graduate studies, I gained valuable experience as a member of the Product team at a startup. In this role, I contributed to innovative solutions that harnessed Geographic Information Systems (GIS) to enhance agricultural yields in Pakistan. This experience ignited my passion for leveraging technology and data to address real-world challenges.
+
+I have interests outside of my academic and professional endeavors, such as the arts and the outdoors. When I'm not deep in data and policy research, you may find me painting, dancing, or going on hikes to explore nature and express my creativity. The picture below shows my love for both physical and intellectual exploration during a recent hike to Mount Tammany.
+
+I've taken classes in product management and machine learning to further diversify my skill set. My expertise and knowledge have been able to grow as a result of these experiences, giving me the tools I need to successfully address the complex issues that arise when policy, data, and technology come together.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+I hope to learn to use different tools like GitHub, Tableau, and Python to create meaningful visualizations, especially after my internship where explaining the story through data was the main component. 
 
-1. List item #1
-2. List item #2
-3. List item #3
+I also aim to build a working portfolio with an impactful final project that will help me in my future job applications through this course. 
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
+To summarise I aim to build and achieve:
+1. Using different tools for meaningful visualizations
+2. Portfolio
+3. Impactful final project
 
 # Portfolio
 
