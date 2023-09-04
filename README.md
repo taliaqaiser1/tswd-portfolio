@@ -1,7 +1,7 @@
 # TSWD Portfolio Talia Qaiser
 Links:
 - Web page URL: https://taliaqaiser1.github.io/tswd-portfolio/
-- This repository: https://github.com/taliaqaiser1/tswd-portfolio/
+- Repository: https://github.com/taliaqaiser1/tswd-portfolio/
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  
