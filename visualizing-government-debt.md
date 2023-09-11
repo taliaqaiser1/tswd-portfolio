@@ -3,6 +3,7 @@
 ## Part 1: Debt-to-GDP Ratio 2021
 
 "General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits."
+
 Source: https://data.oecd.org/gga/general-government-debt.htm
 
 The government debt of countries in 2021 is shown in the next visualization, with 7 highlighted countries:
@@ -28,6 +29,8 @@ We see that no shocking patterns pop-up for all these countries, we might  need 
 
 ## Part 3: Debt-to-GDP ratio 1995-2021 of selected countries
 
-
+We can see that over-time the debt-to-GDP ratio for Japan has increased considerably as compared to other countries. We see a sharp rise in debt-to-GDP ratio for all the 7 countries in 2020. We might attribute this to COVID-19 pandemic but further analysis needs to be done to see if a pattern really exists. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14983401"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Note: For this visualization, I manipulated the data to only keep the 7 countries and their debt-to-GDP ratio and years. I then pivoted the data to make each country a separate column so that the data is more intuitively visualized in flourish. 
