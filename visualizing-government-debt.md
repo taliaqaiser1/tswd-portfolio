@@ -6,9 +6,7 @@
 
 Source: https://data.oecd.org/gga/general-government-debt.htm
 
-We see countries having a 
-
-With Japan having the highest debt-to-GDP ratio in 2021. 
+We see countries like Japan, Greece, Italy and the US having a greater debt-to-GDP ratio than the OECD average. Many of these countries having a higher debt-to-GDP ratio are among the G7. With Japan having the highest debt-to-GDP ratio in 2021. 
 
 <iframe src="https://data.oecd.org/chart/7bip" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7bip" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
@@ -20,8 +18,10 @@ To understand the current patterns of the countries, we need to look into the hi
 
 We see that no shocking patterns pop-up for all these countries, we might  need to do a deeper dive into the 7 chosen countries to see if we can come up with some patterns. 
 
-## Part 3: Debt-to-GDP ratio 1995-2021 of selected countries
-The government debt of countries in 2021 is shown in the next visualization, with 7 highlighted countries:
+## Part 3: Debt-to-GDP ratio 1995-2021 of G7
+
+The government debt of the G7 is shown in the next visualization.
+Countries:
 1. Canada
 2. Germany
 3. United Kingdom
@@ -29,7 +29,7 @@ The government debt of countries in 2021 is shown in the next visualization, wit
 5. Italy
 6. Japan
 7. France
-We can see that over-time the debt-to-GDP ratio for Japan has increased considerably as compared to other countries. We see a sharp rise in debt-to-GDP ratio for all the 7 countries in 2020. We might attribute this to COVID-19 pandemic but further analysis needs to be done to see if a pattern really exists. 
+We can see that over-time the debt-to-GDP ratio for Japan has increased considerably as compared to other countries. We see a sharp rise in debt-to-GDP ratio for all the 7 countries in 2020. We might attribute this to COVID-19 pandemic. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14983401"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
