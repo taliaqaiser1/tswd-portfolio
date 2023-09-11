@@ -2,7 +2,7 @@
 
 ## Part 1: Debt-to-GDP Ratio 2021
 
-"General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits."
+"General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardized guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits."
 
 Source: https://data.oecd.org/gga/general-government-debt.htm
 
@@ -10,7 +10,7 @@ We see countries having a
 
 With Japan having the highest debt-to-GDP ratio in 2021. 
 
-<iframe src="https://data.oecd.org/chart/7bio" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7bio" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
+<iframe src="https://data.oecd.org/chart/7bip" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7bip" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
 ## Part 2: Debt-to-GDP ratio 1995-2021
 
