@@ -6,18 +6,11 @@
 
 Source: https://data.oecd.org/gga/general-government-debt.htm
 
-The government debt of countries in 2021 is shown in the next visualization, with 7 highlighted countries:
-1. Canada
-2. Germany
-3. United Kingdom
-4. United States
-5. Italy
-6. Japan
-7. France
+We see countries having a 
 
 With Japan having the highest debt-to-GDP ratio in 2021. 
 
-<iframe src="https://data.oecd.org/chart/7bgI" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7bgI" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
+<iframe src="https://data.oecd.org/chart/7bio" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7bio" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
 ## Part 2: Debt-to-GDP ratio 1995-2021
 
@@ -28,7 +21,14 @@ To understand the current patterns of the countries, we need to look into the hi
 We see that no shocking patterns pop-up for all these countries, we might  need to do a deeper dive into the 7 chosen countries to see if we can come up with some patterns. 
 
 ## Part 3: Debt-to-GDP ratio 1995-2021 of selected countries
-
+The government debt of countries in 2021 is shown in the next visualization, with 7 highlighted countries:
+1. Canada
+2. Germany
+3. United Kingdom
+4. United States
+5. Italy
+6. Japan
+7. France
 We can see that over-time the debt-to-GDP ratio for Japan has increased considerably as compared to other countries. We see a sharp rise in debt-to-GDP ratio for all the 7 countries in 2020. We might attribute this to COVID-19 pandemic but further analysis needs to be done to see if a pattern really exists. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14983401"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
