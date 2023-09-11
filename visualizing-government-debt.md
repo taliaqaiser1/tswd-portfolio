@@ -1,16 +1,33 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+# Visualizing government debt
 
-# Part 1: Visualizing government debt
+## Part 1: Debt-to-GDP Ratio 2021
 
-Government debt of countries in 2021, with 7 highlighted countries.
+"General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits."
+Source: https://data.oecd.org/gga/general-government-debt.htm
+
+The government debt of countries in 2021 is shown in the next visualization, with 7 highlighted countries:
+1. Canada
+2. Germany
+3. United Kingdom
+4. United States
+5. Italy
+6. Japan
+7. France
+
+With Japan having the highest debt-to-GDP ratio in 2021. 
 
 <iframe src="https://data.oecd.org/chart/7bgI" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7bgI" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
-## Part 2: Grid Chart
+## Part 2: Debt-to-GDP ratio 1995-2021
 
-
+To understand the current patterns of the countries, we need to look into the historical data. We can visualize the debt-to-GDP ratio for most of these countries over time to see if there are any similar patterns we can dive into further.  
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14984189"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Part 3: 
+We see that no shocking patterns pop-up for all these countries, we might  need to do a deeper dive into the 7 chosen countries to see if we can come up with some patterns. 
+
+## Part 3: Debt-to-GDP ratio 1995-2021 of selected countries
+
+
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/14983401"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
