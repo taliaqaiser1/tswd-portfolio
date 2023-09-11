@@ -29,6 +29,7 @@ Countries:
 5. Italy
 6. Japan
 7. France
+
 We can see that over-time the debt-to-GDP ratio for Japan has increased considerably as compared to other countries. We see a sharp rise in debt-to-GDP ratio for all the 7 countries in 2020. We might attribute this to COVID-19 pandemic. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14983401"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
