@@ -35,7 +35,7 @@ To summarise I aim to build and achieve:
 ## In-class exercise: COVID-19 Cases
 <div class="flourish-embed flourish-chart" data-src="visualisation/14926892"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Assignment 2
+## Assignment 2: [Visualizing Government Debt](visualizing-government-debt)
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
