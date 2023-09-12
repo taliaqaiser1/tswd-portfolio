@@ -34,11 +34,15 @@ Countries:
 
 We can see that over-time the debt-to-GDP ratio for Japan has increased considerably as compared to other countries. We see a sharp rise in debt-to-GDP ratio for all the 7 countries in 2020. We might attribute this to COVID-19 pandemic. 
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/14983401"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 Looking specifically at Japan we see it having a higher debt than any of the others over time. "The country's policymakers have grappled with finding effective solutions to spur economic growth. An aging population has strained public finances, requiring increased spending on healthcare, pensions, and social security. These mounting expenses have exacerbated the debt burden."
 
 Source: <a href="https://www.linkedin.com/pulse/why-japan-most-indebted-country-world-gregorio-punzano#:~:text=Economic%20Challenges%20Faced%20by%20Japan&text=The%20country's%20policymakers%20have%20grappled,have%20exacerbated%20the%20debt%20burden.">Source!</a>
 
+### Looking Forward
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/14983401"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Although all of these G7 countries have proven themselves to have the biggest economies, yet they are not all safe from the shackles of debt. 
+
 
 Note: For this visualization, I manipulated the data to only keep the 7 countries and their debt-to-GDP ratio and years. I then pivoted the data to make each country a separate column so that the data is more intuitively visualized in flourish. 
