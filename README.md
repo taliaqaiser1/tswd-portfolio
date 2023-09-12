@@ -37,6 +37,8 @@ To summarise I aim to build and achieve:
 
 ## Assignment 2: [Visualizing Government Debt](visualizing-government-debt.md)
 
+## In-class Tableau Exercise: [Tableau Exercise](tableau-inclass)
+
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
 ## Final project
