@@ -6,7 +6,7 @@ Do the bigger economies of the world, reach their level of growth on their own o
 
 "General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardized guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits."
 
-Source: https://data.oecd.org/gga/general-government-debt.htm
+Source: <a href="https://data.oecd.org/gga/general-government-debt.htm">Source!</a>
 
 We see countries like Japan, Greece, Italy and the US having a greater debt-to-GDP ratio than the OECD average. Many of these countries having a higher debt-to-GDP ratio are among the G7. With Japan having the highest debt-to-GDP ratio in 2021. 
 
@@ -36,9 +36,7 @@ We can see that over-time the debt-to-GDP ratio for Japan has increased consider
 
 Looking specifically at Japan we see it having a higher debt than any of the others over time. "The country's policymakers have grappled with finding effective solutions to spur economic growth. An aging population has strained public finances, requiring increased spending on healthcare, pensions, and social security. These mounting expenses have exacerbated the debt burden."
 
-Source: https://www.linkedin.com/pulse/why-japan-most-indebted-country-world-gregorio-punzano#:~:text=Economic%20Challenges%20Faced%20by%20Japan&text=The%20country's%20policymakers%20have%20grappled,have%20exacerbated%20the%20debt%20burden.
-
-<a href="https://www.linkedin.com/pulse/why-japan-most-indebted-country-world-gregorio-punzano#:~:text=Economic%20Challenges%20Faced%20by%20Japan&text=The%20country's%20policymakers%20have%20grappled,have%20exacerbated%20the%20debt%20burden.">Link!</a>
+Source: <a href="https://www.linkedin.com/pulse/why-japan-most-indebted-country-world-gregorio-punzano#:~:text=Economic%20Challenges%20Faced%20by%20Japan&text=The%20country's%20policymakers%20have%20grappled,have%20exacerbated%20the%20debt%20burden.">Source!</a>
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14983401"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
