@@ -6,7 +6,7 @@ The Cricket World Cup 2023 is going on these days and it made me wonder about th
 
 For this, I searched for an article that compared the cities with the best batting and bowling averages. But the visualizations I found didn't seem very intuitive. 
 
-**Link: ** https://www.espncricinfo.com/story/which-top-cricket-city-would-win-the-world-cup-1196522
+**Link:** https://www.espncricinfo.com/story/which-top-cricket-city-would-win-the-world-cup-1196522
 
 **Visualizations:**
 
@@ -44,7 +44,7 @@ Then, I got feedback on both, the wireframes and the solution.
 I asked three people for feedback on my sketches with the following profiles:
 1. Student, early 20's
 2. Student, mid 20's
-3. Student, last 20's
+3. Student, late 20's
 
 The synthesized feedback from their interviews was as follows:
 1. The bar charts work well
