@@ -6,7 +6,7 @@ The Cricket World Cup 2023 is going on these days and it made me wonder about th
 
 For this, I searched for an article that compared the cities with the best batting and bowling averages. But the visualizations I found didn't seem very intuitive. 
 
-**Link: **https://www.espncricinfo.com/story/which-top-cricket-city-would-win-the-world-cup-1196522
+**Link: ** https://www.espncricinfo.com/story/which-top-cricket-city-would-win-the-world-cup-1196522
 
 **Visualizations:**
 
@@ -53,4 +53,11 @@ The synthesized feedback from their interviews was as follows:
 4. Try adding more cities to the visualizations
 5. The line charts imply that it is time-series data so maybe try something else.
 
+## Step Five: Build your Solution
 
+After taking into account the feedback I got from my critiques, I searched for more data and found the original dataset. I then subsetted the dataset to display the top 8 cities in terms of all Bowling, Batting, and the number of wickets taken by the players from that city. 
+
+The visualization then gave a robust idea as to how the cities can be seen on different dimensions and can be compared. No one city pops up as the best one but we can see interesting patterns across the cities for comparison. 
+
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/15077785"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
