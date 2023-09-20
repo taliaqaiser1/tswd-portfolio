@@ -57,6 +57,8 @@ The synthesized feedback from their interviews was as follows:
 
 After taking into account the feedback I got from my critiques, I searched for more data and found the original dataset. I then subsetted the dataset to display the top 8 cities in terms of all Bowling, Batting, and the number of wickets taken by the players from that city. 
 
+**Original Dataset:** https://data.world/raghav333/cricket-players-espn
+
 The visualization then gave a robust idea as to how the cities can be seen on different dimensions and can be compared. No one city pops up as the best one but we can see interesting patterns across the cities for comparison. 
 
 
