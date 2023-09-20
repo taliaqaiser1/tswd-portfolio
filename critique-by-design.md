@@ -1,6 +1,7 @@
 # Critique by Design
 
 ## Step One: Finding a Visualization
+
 The Cricket World Cup 2023 is going on these days and it made me wonder about the players and the cities they belonged to. There are so many visualizations on predictions of the World Cup and which country has the best players but I wanted to see which city produces the best players and further dive deep into the reason why. 
 
 For this, I searched for an article that compared the cities with the best batting and bowling averages. But the visualizations I found didn't seem very intuitive. 
@@ -21,10 +22,35 @@ The primary audience for this tool is cricket enthusiasts and spectators who wou
 
 ## Step Three: Wireframe a Solution
 
-I started wireframing the solution with the given data in the visualizations and came up with a dual axis bar chart 
-
-
+I started wireframing the solution with the given data in the visualizations and came up with a dual-axis bar chart. One side showed the full scale for runs and wickets the other side displayed the average. I chose the original colors but a white background so that it is not too distracting. 
 
 ![IMG_0002](https://github.com/taliaqaiser1/tswd-portfolio/assets/123123984/a490c241-9036-4074-84a2-6783f991d547)
+
+This visualization depicted the intended data in a format that is easily understandable and readable by the audience. 
+
+**Solution Draft 1 and Limitations:**
+
+After this, I designed a solution for the two graphs. However, I could not figure out the dual scale in Flourish so I had to use a different approach, where I used a line and bar chart combined to show the data. 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/15066974"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/15066945"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+Then, I got feedback on both, the wireframes and the solution.
+
+## Step Four: Test the Solution
+
+I asked three people for feedback on my sketches with the following profiles:
+1. Student, early 20's
+2. Student, mid 20's
+3. Student, last 20's
+
+The synthesized feedback from their interviews was as follows:
+1. The bar charts work well
+2. The dual scale is a good idea
+3. Try combining the charts
+4. Try adding more cities to the visualizations
+5. The line charts imply that it is time-series data so maybe try something else.
 
 
