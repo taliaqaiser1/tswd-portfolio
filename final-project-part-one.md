@@ -27,11 +27,14 @@ The other elements would be analyzed in a similar way. Scores will be assigned t
 The following websites have the CSV files for the data that they have used and I will be using a part of the data from all these sources as part of my story. 
 
 Education Data: https://data.unicef.org/topic/gender/gender-disparities-in-education/
+
 Gender Equality Data: https://data.unicef.org/topic/gender/overview/
+
 Violence Against Women Data: 
 1. https://evaw-global-database.unwomen.org/en
 2. https://ourworldindata.org/grapher/share-of-women-who-experienced-violence-by-an-intimate-partner
 3. https://vawnet.org/material/data-sets-related-violence-against-women
+
 Employment Data: 
 1. https://genderdata.worldbank.org/topics/employment-and-time-use/
 2. https://genderdata.worldbank.org/indicators/sl-tlf-acti-zs/
