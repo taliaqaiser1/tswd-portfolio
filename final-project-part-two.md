@@ -5,37 +5,58 @@
 
 Text here!
 
+# Story
+The aim of this project is to compare and improve the experience of 16-year old girls in three countries, the US, Pakistan and Norway. These countries were chosen on the basis of how different the life trajectory of girls can be on the basis of cultural differences. The opportunities in terms of education and employment is different across these three countries as well as the amount of crimes that affect these girls at this age in the three countries. 
+I aim to analyze these differences and offer policy recommendations to all three to try to improve the experience of 16-year olds so that they can grow up safe and grow-up to become even more valuable members of the society. 
+
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
-
+> Include your approach to identifying representative individuals, and who you hope to reach with your story.
+> 
+I identified a problem that exists in the world, the problem is improving the lives of 16-year old girls. For this, my target audience is anyone who can contribute to the community and this problem in general.
+> The target is anyone from the international community that can make an impact. The recommendations are also tailored towards:
+> 1. Individuals
+> 2. Community
+> 3. Governmental Organizations
+>
+>For this problem set then specifically I chose students from Public Policy background who have previously worked in the government to give insights on how they think the story can unfold.
+> 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+> List the goals from your research, and the questions you intend to ask.
+>
+> My research stated that 16 is a very precarious age for children, that is when they are actually growing up and transitioning to become standup citizens of the country. Unfortunately, it is also the age when they are most susceptible to crimes and violence against them. This leads to me defining my goal:
+> How can we improve the lives of 16-year old girls?
+>
+> I built a pipeline that will answer this question or at least help us get to the core of this problem. I then shared that pipeline with the intended audience and asked the following questions:
+> 
+> ### Questions
+> 1. What do you think the story is trying to convey?
+> 2. How do you think the idea of visualizations is helping in developing the idea further?
+> 3. Is the story clear and easy to follow?
+> 4. Is it possible to tackle the scope of this problem?
+> 5. Any changes you would suggest in this narrative?
 
-Text here!
-
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+### Persona: Interviewee 1
+**Name:** John Snow
+**Profession:** Government Policy Worker
+**Age:** 32
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+**Questions and Answers:**
+> 1. What do you think the story is trying to convey?
+>    _I think the story is a compelling one but it has too many pieces to keep track of. _
+> 3. How do you think the idea of visualizations is helping in developing the idea further?
+> 4. Is the story clear and easy to follow?
+> 5. Is it possible to tackle the scope of this problem?
+> 6. Any changes you would suggest in this narrative?
+
+
+
 
 
 # Identified changes for Part III
