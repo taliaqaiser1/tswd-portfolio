@@ -1,9 +1,11 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+# Wireframes / Storyboard
 
-Text here!
+Using my initial sketches and incorporating some of the feedback that I got from class, I made a structure in Shorthand. It has sections that identify different parts of the problem. For now, I have added placeholder visuals that give some idea of what my final visuals will look like. These are there to give an idea to the audience so that I could get detailed feedback and see if the direction I am headed in is right or not. 
+
+https://carnegiemellon.shorthandstories.com/protecting-the-adolescent-girls-of-pakistan/index.html
+
 
 # Story
 The aim of this project is to compare and improve the experience of 16-year-old girls in three countries, the US, Pakistan, and Norway. These countries were chosen on the basis of how different the life trajectories of girls can be on the basis of cultural differences. The opportunities in terms of education and employment are different across these three countries as well as the amount of crimes that affect these girls at this age in the three countries. 
@@ -98,8 +100,7 @@ I identified a problem that exists in the world, the problem is improving the li
 >      It is possible to create awareness and make a dent in the problem, it doesn't have to solve the entire problem.
 > 5. Any changes you would suggest in this narrative?
 >     Talk more about why Pakistan was selected to study deeper into this issue, it would give me more empathy about the situation in Pakistan. Perhaps there are differences in the data that can justify the spotlight on one country
->
-> 
+>    
 > 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
@@ -115,10 +116,12 @@ Text here!
 
 > Personally I think, I need to build a theme, work more on the visuals on flourish and  tableau. I have the data but I need to show it in a better way. Further, I should be addressing the gaps in my research and the problem. For this I have placed placeholder text sections in the Shorthand template so that I can come back to it and work on it further. 
 
-Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+# Moodboard
 
-Text here!
+The following mood board represents the theme of the website and the chosen color palette. 
+
+![Blue Orange Terracotta Brand Mood Board Portrait Photo Collage](https://github.com/taliaqaiser1/tswd-portfolio/assets/123123984/d357e21d-fe04-4a4c-b099-6f1e7104264a)
+
+I have chosen sobering colors to represent the seriousness of the issue and the images that I will use in the final product. These images have been taken from the free versions from unsplash. 
 
