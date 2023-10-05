@@ -28,15 +28,15 @@ I identified a problem that exists in the world, the problem is improving the li
 > 2. Community
 > 3. Governmental Organizations
 >
->For this problem set then specifically I chose students from Public Policy backgrounds who have previously worked in the government to give insights on how they think the story can unfold.
-> 
+For this problem set then specifically I chose students from Public Policy backgrounds who have previously worked in the government to give insights on how they think the story can unfold.
+
 ## Interview script
 
-> My research stated that adolescence is a very precarious age for children, that is when they are actually growing up and transitioning to become standup citizens of the country. Unfortunately, it is also the age when they are most susceptible to crimes and violence against them. This leads to me defining my goal:
->
-> I built a pipeline that will answer this question or at least help us get to the core of this problem. I then shared that pipeline with the intended audience and asked the following questions:
-> 
-> ### Questions
+My research stated that adolescence is a very precarious age for children, that is when they are actually growing up and transitioning to become standup citizens of the country. Unfortunately, it is also the age when they are most susceptible to crimes and violence against them. This leads to me defining my goal:
+
+I built a pipeline that will answer this question or at least help us get to the core of this problem. I then shared that pipeline with the intended audience and asked the following questions:
+
+### Questions
 > 1. What do you think the story is trying to convey?
 > 2. How do you think the idea of visualizations is helping in developing the idea further?
 > 3. Is the story clear and easy to follow?
@@ -52,16 +52,25 @@ I identified a problem that exists in the world, the problem is improving the li
 **Age:** 32
 
 **Questions and Answers:**
-> 1. What do you think the story is trying to convey?
->    I think the story is a compelling one but it has too many pieces to keep track of. 
-> 2. How do you think the idea of visualizations is helping in developing the idea further?
->    The visualizations are impactful but can be further built on. Some of them are not that representative. 
-> 3. Is the story clear and easy to follow?
->    I think there is a jump from violence to economic impact, a little more work needs to  be done in that regard.
-> 4. Is it possible to tackle the scope of this problem?
->    I think the problem in terms of the recommendations that you will present can be tackled very well. However, I am not too sure about the implementation of those policies.
-> 5. Any changes you would suggest in this narrative?
->    I think you should build more on establishing the connection between violence, education, and then the economic impact. 
+1. What do you think the story is trying to convey?
+
+   I think the story is a compelling one but it has too many pieces to keep track of.
+
+2. How do you think the idea of visualizations is helping in developing the idea further?
+
+   The visualizations are impactful but can be further built on. Some of them are not that representative.
+
+3. Is the story clear and easy to follow?
+
+    I think there is a jump from violence to economic impact, a little more work needs to  be done in that regard.
+
+4. Is it possible to tackle the scope of this problem?
+ 
+    I think the problem in terms of the recommendations that you will present can be tackled very well. However, I am not too sure about the implementation of those policies.
+
+5. Any changes you would suggest in this narrative?
+
+    I think you should build more on establishing the connection between violence, education, and then the economic impact. 
 
 
 ### Persona: Interviewee 2
@@ -70,19 +79,25 @@ I identified a problem that exists in the world, the problem is improving the li
 **Age:** 28
 
 **Questions and Answers:**
-> 1. What do you think the story is trying to convey?
->    I think the story is trying to convey the importance of the situation while providing context. 
-> 2. How do you think the idea of visualizations is helping in developing the idea further?
->    The visualizations make the key statistics stand out from the text and allow an easier reading of the data. The maps are
->    very helpful in visualizing the various comparisons being made. 
-> 3. Is the story clear and easy to follow?
->    The first half of the story is quite easy to follow but the latter ideas need a better link between them.
-> 4. Is it possible to tackle the scope of this problem?
->    Changing the attitudes of an entire society towards women is a very daunting but necessary task. There is someone
->    who will see this work and will learn something new from it. That is enough incentive for this sort of work to be
->    created.
-> 5. Any changes you would suggest in this narrative?
->    I would try to include more transition slides or text that help bring the reader along from section to section.
+1. What do you think the story is trying to convey?
+
+   I think the story is trying to convey the importance of the situation while providing context.
+
+2. How do you think the idea of visualizations is helping in developing the idea further?
+
+    The visualizations make the key statistics stand out from the text and allow an easier reading of the data. The maps are very helpful in visualizing the various comparisons being made.
+
+3. Is the story clear and easy to follow?
+
+    The first half of the story is quite easy to follow but the latter ideas need a better link between them.
+
+4. Is it possible to tackle the scope of this problem?
+
+    Changing the attitudes of an entire society towards women is a very daunting but necessary task. There is someone who will see this work and will learn something new from it. That is enough incentive for this sort of work to be created.
+
+5. Any changes you would suggest in this narrative?
+
+    I would try to include more transition slides or text that help bring the reader along from section to section.
 
 ### Persona: Interviewee 3
 **Name:** Ryan
@@ -90,20 +105,29 @@ I identified a problem that exists in the world, the problem is improving the li
 **Age:** 27
 
 **Questions and Answers:**
-> 1. What do you think the story is trying to convey?
->    The story is trying to convey information on abuse in adolescents, especially in Pakistan. Then it goes on the talk about the longer-term effects of this problem.
-> 2. How do you think the idea of visualizations is helping in developing the idea further?
->   The graphs and stats give me a clearer picture of the problems, and also increase my confidence that there is an underlying issue.
-> 3. Is the story clear and easy to follow?
->     Yes, I can see the flow that is being made and a data-centric narrative that is being communicated. I can follow along with the narrative.
-> 4. Is it possible to tackle the scope of this problem?
->      It is possible to create awareness and make a dent in the problem, it doesn't have to solve the entire problem.
-> 5. Any changes you would suggest in this narrative?
->     Talk more about why Pakistan was selected to study deeper into this issue, it would give me more empathy about the situation in Pakistan. Perhaps there are differences in the data that can justify the spotlight on one country
->    
-> 
+1. What do you think the story is trying to convey?
+
+    The story is trying to convey information on abuse in adolescents, especially in Pakistan. Then it goes on the talk about the longer-term effects of this problem.
+
+2. How do you think the idea of visualizations is helping in developing the idea further?
+
+   The graphs and stats give me a clearer picture of the problems, and also increase my confidence that there is an underlying issue.
+
+3. Is the story clear and easy to follow?
+
+     Yes, I can see the flow that is being made and a data-centric narrative that is being communicated. I can follow along with the narrative.
+
+4. Is it possible to tackle the scope of this problem?
+
+      It is possible to create awareness and make a dent in the problem, it doesn't have to solve the entire problem.
+
+5. Any changes you would suggest in this narrative?
+
+     Talk more about why Pakistan was selected to study deeper into this issue, it would give me more empathy about the situation in Pakistan. Perhaps there are differences in the data that can justify the spotlight on one country
+ 
+ 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+Document the changes you plan on implementing next week to address any issues identified.  
 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
@@ -113,7 +137,10 @@ I identified a problem that exists in the world, the problem is improving the li
 |   Add transitions                                       |  I will be adding more filler slides and sections to make the story easy to follow                                                                               |
 |                                          |                                                                                 |
 
-> Personally I think, I need to build a theme, work more on the visuals on flourish and  tableau. I have the data but I need to show it in a better way. Further, I should be addressing the gaps in my research and the problem. For this I have placed placeholder text sections in the Shorthand template so that I can come back to it and work on it further. 
+
+**Critiquing myself:
+**
+I need to build a theme, and work more on the visuals on flourish and  tableau. I have the data but I need to show it in a better way. Further, I should be addressing the gaps in my research and the problem. For this, I have placed placeholder text sections in the Shorthand template so that I can come back to it and work on it further. 
 
 
 # Moodboard
@@ -122,7 +149,7 @@ The following mood board represents the theme of the website and the chosen colo
 
 ![Blue Orange Terracotta Brand Mood Board Portrait Photo Collage](https://github.com/taliaqaiser1/tswd-portfolio/assets/123123984/d357e21d-fe04-4a4c-b099-6f1e7104264a)
 
-I have chosen sobering colors to represent the seriousness of the issue and the images that I will use in the final product. These images have been taken from the free versions from unsplash. 
+I have chosen sobering colors to represent the seriousness of the issue and the images that I will use in the final product. These images have been taken from the free versions from Unsplash. 
 
 # Personas
 
