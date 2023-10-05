@@ -1,5 +1,10 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+# Wireframes / Storyboard
+
+Using my initial sketches and incorporating some of the feedback that I got from class, I made a structure in Shorthand. It has sections that identify different parts of the problem. For now, I have added placeholder visuals that give some idea of what my final visuals will look like. These are there to give an idea to the audience so that I can get detailed feedback and see if the direction I am headed in is right or not. 
+
+https://carnegiemellon.shorthandstories.com/protecting-the-adolescent-girls-of-pakistan/index.html
 
 # Story
 The aim of this project is to compare and improve the experience of 16-year-old girls in three countries, the US, Pakistan, and Norway. These countries were chosen on the basis of how different the life trajectories of girls can be on the basis of cultural differences. The opportunities in terms of education and employment are different across these three countries as well as the amount of crimes that affect these girls at this age in the three countries. 
@@ -13,12 +18,6 @@ When I shared my idea in class with my peers, the problem got more refined. I go
 After redefining the scope of the problem, the direction became to improve the lives of adolescent girls in Pakistan. These dimensions on which their lives can be improved are in terms of reducing the crimes against them so that the mental health impact can be reduced. Because of the immense amount of violence against them that leads to mental health problems, these girls lose self-confidence, and that affects their economic contribution as well. 
 
 After redefining the problem, I built the narrative on Shorthand and showed that to my target audience and got feedback on that. 
-
-# Wireframes / Storyboard
-
-Using my initial sketches and incorporating some of the feedback that I got from class, I made a structure in Shorthand. It has sections that identify different parts of the problem. For now, I have added placeholder visuals that give some idea of what my final visuals will look like. These are there to give an idea to the audience so that I can get detailed feedback and see if the direction I am headed in is right or not. 
-
-https://carnegiemellon.shorthandstories.com/protecting-the-adolescent-girls-of-pakistan/index.html
 
 
 ## Target audience
