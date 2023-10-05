@@ -155,4 +155,6 @@ I have chosen sobering colors to represent the seriousness of the issue and the 
 
 The following are the three target personas for this project:
 
-[Uploading Dark Blue Yellow 3D User Persona User Persona Presentation.pdf…]()
+![User personas](https://github.com/taliaqaiser1/tswd-portfolio/assets/123123984/1f9a9445-828c-4149-80ef-2dd101ef4605)
+
+
