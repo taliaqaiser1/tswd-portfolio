@@ -2,7 +2,7 @@
 
 # Wireframes / Storyboard
 
-Using my initial sketches and incorporating some of the feedback that I got from class, I made a structure in Shorthand. It has sections that identify different parts of the problem. For now, I have added placeholder visuals that give some idea of what my final visuals will look like. These are there to give an idea to the audience so that I could get detailed feedback and see if the direction I am headed in is right or not. 
+Using my initial sketches and incorporating some of the feedback that I got from class, I made a structure in Shorthand. It has sections that identify different parts of the problem. For now, I have added placeholder visuals that give some idea of what my final visuals will look like. These are there to give an idea to the audience so that I can get detailed feedback and see if the direction I am headed in is right or not. 
 
 https://carnegiemellon.shorthandstories.com/protecting-the-adolescent-girls-of-pakistan/index.html
 
@@ -105,7 +105,6 @@ I identified a problem that exists in the world, the problem is improving the li
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
