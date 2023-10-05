@@ -6,28 +6,31 @@
 Text here!
 
 # Story
-The aim of this project is to compare and improve the experience of 16-year old girls in three countries, the US, Pakistan and Norway. These countries were chosen on the basis of how different the life trajectory of girls can be on the basis of cultural differences. The opportunities in terms of education and employment is different across these three countries as well as the amount of crimes that affect these girls at this age in the three countries. 
-I aim to analyze these differences and offer policy recommendations to all three to try to improve the experience of 16-year olds so that they can grow up safe and grow-up to become even more valuable members of the society. 
+The aim of this project is to compare and improve the experience of 16-year-old girls in three countries, the US, Pakistan, and Norway. These countries were chosen on the basis of how different the life trajectories of girls can be on the basis of cultural differences. The opportunities in terms of education and employment are different across these three countries as well as the amount of crimes that affect these girls at this age in the three countries. 
+I aim to analyze these differences and offer policy recommendations to all three to try to improve the experience of 16-year-olds so that they can grow up safe and grow-up to become even more valuable members of society. 
 
 # User research 
 
+## In-Class Critique and Redefining the Project Scope
+When I shared my idea in class with my peers, the problem got more refined. I got questions like why did I choose, 16-year-old girls and why did I choose these three countries. While explaining and looking for answers to these, I realized that the problem is too wide to solve and the data collection also became complicated. That's when I decided to narrow down the scope of the problem to focus only on Pakistan. This is because of the severity of the problem in the country. When looking at the data just for Pakistan, I saw that the data was not very defined for 16-year-olds or age-wise. Also, the data that was available had different age ranges for children, some defined them from 10-18 some from 10-17, etc. Thus, I then decided to broaden the scope in this dimension to work on adolescent girls, the definition of which is any children ranging from 10-18 years old in this context. 
+
+After redefining the scope of the problem, the direction became to improve the lives of adolescent girls in Pakistan. These dimensions on which their lives can be improved are in terms of reducing the crimes against them so that the mental health impact can be reduced. Because of the immense amount of violence against them that leads to mental health problems, these girls lose self-confidence, and that affects their economic contribution as well. 
+
+After redefining the problem, I built the narrative on Shorthand and showed that to my target audience and got feedback on that. 
+
 ## Target audience
 
-> Include your approach to identifying representative individuals, and who you hope to reach with your story.
-> 
-I identified a problem that exists in the world, the problem is improving the lives of 16-year old girls. For this, my target audience is anyone who can contribute to the community and this problem in general.
-> The target is anyone from the international community that can make an impact. The recommendations are also tailored towards:
+I identified a problem that exists in the world, the problem is improving the lives of adolescent girls in Pakistan. For this, my target audience is anyone who can contribute to the community and this problem in general.
+> The target is anyone from the international community who can make an impact. The recommendations are also tailored towards:
 > 1. Individuals
 > 2. Community
 > 3. Governmental Organizations
 >
->For this problem set then specifically I chose students from Public Policy background who have previously worked in the government to give insights on how they think the story can unfold.
+>For this problem set then specifically I chose students from Public Policy backgrounds who have previously worked in the government to give insights on how they think the story can unfold.
 > 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask.
->
-> My research stated that 16 is a very precarious age for children, that is when they are actually growing up and transitioning to become standup citizens of the country. Unfortunately, it is also the age when they are most susceptible to crimes and violence against them. This leads to me defining my goal:
-> How can we improve the lives of 16-year old girls?
+
+> My research stated that adolescence is a very precarious age for children, that is when they are actually growing up and transitioning to become standup citizens of the country. Unfortunately, it is also the age when they are most susceptible to crimes and violence against them. This leads to me defining my goal:
 >
 > I built a pipeline that will answer this question or at least help us get to the core of this problem. I then shared that pipeline with the intended audience and asked the following questions:
 > 
@@ -40,25 +43,28 @@ I identified a problem that exists in the world, the problem is improving the li
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 ### Persona: Interviewee 1
-**Name:** John Snow
+**Name:** Jane 
 **Profession:** Government Policy Worker
 **Age:** 32
 
 **Questions and Answers:**
 > 1. What do you think the story is trying to convey?
->    _I think the story is a compelling one but it has too many pieces to keep track of. _
-> 3. How do you think the idea of visualizations is helping in developing the idea further?
-> 4. Is the story clear and easy to follow?
-> 5. Is it possible to tackle the scope of this problem?
-> 6. Any changes you would suggest in this narrative?
+>    I think the story is a compelling one but it has too many pieces to keep track of. 
+> 2. How do you think the idea of visualizations is helping in developing the idea further?
+>    The visualizations are impactful but can be further built on. Some of them are not that representative. 
+> 3. Is the story clear and easy to follow?
+>    I think there is a jump from violence to economic impact, a little more work needs to  be done in that regard.
+> 4. Is it possible to tackle the scope of this problem?
+>    I think the problem in terms of the recommendations that you will present can be tackled very well. However, I am not too sure about the implementation of those policies.
+> 5. Any changes you would suggest in this narrative?
+>    I think you should build more on establishing the connection between violence, education, and then the economic impact. 
 
 
 ### Persona: Interviewee 2
-**Name:** Abdul Rehman
-**Profession:** Government Policy Worker
+**Name:** John
+**Profession:** Graduate student
 **Age:** 28
 
 **Questions and Answers:**
@@ -77,21 +83,21 @@ I identified a problem that exists in the world, the problem is improving the li
 >    I would try to include more transition slides or text that help bring the reader along from section to section.
 
 ### Persona: Interviewee 3
-**Name:** Shayan Ali
+**Name:** Ryan
 **Profession:** Product Manager
 **Age:** 27
 
 **Questions and Answers:**
 > 1. What do you think the story is trying to convey?
->    The story is trying to convey information on abuse in adolescents, especially in Pakistan
+>    The story is trying to convey information on abuse in adolescents, especially in Pakistan. Then it goes on the talk about the longer-term effects of this problem.
 > 2. How do you think the idea of visualizations is helping in developing the idea further?
->   the graphs and stats give me a clearer picture into the problems, and also increase my confidence that there is an underlying issue
+>   The graphs and stats give me a clearer picture of the problems, and also increase my confidence that there is an underlying issue.
 > 3. Is the story clear and easy to follow?
->     Yes, I can see the flow that is being made
+>     Yes, I can see the flow that is being made and a data-centric narrative that is being communicated. I can follow along with the narrative.
 > 4. Is it possible to tackle the scope of this problem?
->      It is possible to create awareness and make a dent in the problem
+>      It is possible to create awareness and make a dent in the problem, it doesn't have to solve the entire problem.
 > 5. Any changes you would suggest in this narrative?
->     talk more about why Pakistan was selected to study deeper into this issue
+>     Talk more about why Pakistan was selected to study deeper into this issue, it would give me more empathy about the situation in Pakistan. Perhaps there are differences in the data that can justify the spotlight on one country
 >
 > 
 > 
