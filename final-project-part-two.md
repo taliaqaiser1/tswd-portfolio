@@ -77,18 +77,24 @@ I identified a problem that exists in the world, the problem is improving the li
 >    I would try to include more transition slides or text that help bring the reader along from section to section.
 
 ### Persona: Interviewee 3
-**Name:** John Snow
-**Profession:** Government Policy Worker
-**Age:** 32
+**Name:** Shayan Ali
+**Profession:** Product Manager
+**Age:** 27
 
 **Questions and Answers:**
 > 1. What do you think the story is trying to convey?
->    _I think the story is a compelling one but it has too many pieces to keep track of. _
-> 3. How do you think the idea of visualizations is helping in developing the idea further?
-> 4. Is the story clear and easy to follow?
-> 5. Is it possible to tackle the scope of this problem?
-> 6. Any changes you would suggest in this narrative?
-> 7. 
+>    The story is trying to convey information on abuse in adolescents, especially in Pakistan
+> 2. How do you think the idea of visualizations is helping in developing the idea further?
+>   the graphs and stats give me a clearer picture into the problems, and also increase my confidence that there is an underlying issue
+> 3. Is the story clear and easy to follow?
+>     Yes, I can see the flow that is being made
+> 4. Is it possible to tackle the scope of this problem?
+>      It is possible to create awareness and make a dent in the problem
+> 5. Any changes you would suggest in this narrative?
+>     talk more about why Pakistan was selected to study deeper into this issue
+>
+> 
+> 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
