@@ -108,13 +108,12 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
+| Gaps in the problem description          | I will look for more data to fill these gaps in the story and make it easier to follow |
+| Visualizations should be more compelling | The visualizations currently are placeholders that are just trying to convey my message, I will be adding proper visualizations using the same data to make my point more clear                                                                                 |
+|   Add transitions                                       |  I will be adding more filler slides and sections to make the story easy to follow                                                                               |
 |                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
 
-> ...include any final thoughts you have here. 
+> Personally I think, I need to build a theme, work more on the visuals on flourish and  tableau. I have the data but I need to show it in a better way. Further, I should be addressing the gaps in my research and the problem. For this I have placed placeholder text sections in the Shorthand template so that I can come back to it and work on it further. 
 
 Text here!
 
