@@ -124,3 +124,8 @@ The following mood board represents the theme of the website and the chosen colo
 
 I have chosen sobering colors to represent the seriousness of the issue and the images that I will use in the final product. These images have been taken from the free versions from unsplash. 
 
+# Personas
+
+The following are the three target personas for this project:
+
+[Uploading Dark Blue Yellow 3D User Persona User Persona Presentation.pdf…]()
