@@ -56,9 +56,39 @@ I identified a problem that exists in the world, the problem is improving the li
 > 6. Any changes you would suggest in this narrative?
 
 
+### Persona: Interviewee 2
+**Name:** Abdul Rehman
+**Profession:** Government Policy Worker
+**Age:** 28
 
+**Questions and Answers:**
+> 1. What do you think the story is trying to convey?
+>    I think the story is trying to convey the importance of the situation while providing context. 
+> 2. How do you think the idea of visualizations is helping in developing the idea further?
+>    The visualizations make the key statistics stand out from the text and allow an easier reading of the data. The maps are
+>    very helpful in visualizing the various comparisons being made. 
+> 3. Is the story clear and easy to follow?
+>    The first half of the story is quite easy to follow but the latter ideas need a better link between them.
+> 4. Is it possible to tackle the scope of this problem?
+>    Changing the attitudes of an entire society towards women is a very daunting but necessary task. There is someone
+>    who will see this work and will learn something new from it. That is enough incentive for this sort of work to be
+>    created.
+> 5. Any changes you would suggest in this narrative?
+>    I would try to include more transition slides or text that help bring the reader along from section to section.
 
+### Persona: Interviewee 3
+**Name:** John Snow
+**Profession:** Government Policy Worker
+**Age:** 32
 
+**Questions and Answers:**
+> 1. What do you think the story is trying to convey?
+>    _I think the story is a compelling one but it has too many pieces to keep track of. _
+> 3. How do you think the idea of visualizations is helping in developing the idea further?
+> 4. Is the story clear and easy to follow?
+> 5. Is it possible to tackle the scope of this problem?
+> 6. Any changes you would suggest in this narrative?
+> 7. 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
