@@ -120,6 +120,7 @@ Text here!
 # Moodboard
 
 The following mood board represents the theme of the website and the chosen color palette. 
+<img src="![Blue Orange Terracotta Brand Mood Board Portrait Photo Collage](https://github.com/taliaqaiser1/tswd-portfolio/assets/123123984/d357e21d-fe04-4a4c-b099-6f1e7104264a)" width="100" height="100">
 
 ![Blue Orange Terracotta Brand Mood Board Portrait Photo Collage](https://github.com/taliaqaiser1/tswd-portfolio/assets/123123984/d357e21d-fe04-4a4c-b099-6f1e7104264a)
 
