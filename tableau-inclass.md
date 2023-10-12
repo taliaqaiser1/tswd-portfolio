@@ -1,3 +1,6 @@
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
+
 ## Visualization 1
 
 <div class='tableauPlaceholder' id='viz1694528386512' style='position: relative'><noscript><a href='#'><img alt='Trust in News Organizations (Source: Simmons Research) ' src='https:&#47;
