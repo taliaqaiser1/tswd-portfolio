@@ -34,7 +34,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8896070/
 
 https://www.cdc.gov/violenceprevention/featuredtopics/teen-violence-impact.html
 
-Source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9243683/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9243683/
 
 https://evaw-global-database.unwomen.org/en/countries/asia/pakistan?formofviolence=fac5fe48636e4d3882bbd2ebbf29bd60
 
@@ -42,7 +42,6 @@ https://www.washingtonpost.com/politics/2021/06/17/why-malalas-vogue-uk-intervie
 
 https://www.unicef.org/media/102551/file/Pakistan-2020-COAR.pdf
 
-Text here!
 
 # Final thoughts
 I enjoyed this whole process a lot. The numerous iterations helped me narrow my focus down. I realized that it was ambitious of me to define the scope as I defined it in the beginning. By the end the scope was such that it is easy to follow and understand. 
