@@ -32,9 +32,6 @@ To summarise I aim to build and achieve:
 
 # Portfolio
 
-## In-class exercise: COVID-19 Cases
-<div class="flourish-embed flourish-chart" data-src="visualisation/14926892"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 ## Assignment 2: [Visualizing Government Debt](visualizing-government-debt.md)
 
 ## In-class Tableau Exercise: [Tableau Exercise](tableau-inclass.md)
