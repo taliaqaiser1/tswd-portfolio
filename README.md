@@ -32,6 +32,8 @@ To summarise I aim to build and achieve:
 
 # Portfolio
 
+## Assignment 1: [Flourish Exercise](Assignment-1.md)
+
 ## Assignment 2: [Visualizing Government Debt](visualizing-government-debt.md)
 
 ## In-class Tableau Exercise: [Tableau Exercise](tableau-inclass.md)
